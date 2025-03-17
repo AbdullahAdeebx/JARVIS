@@ -82,6 +82,14 @@ If you need to update your API key, you can delete the existing key file and run
    jarvis
    ```
 
+Or just run:
+   ```bash
+   git clone https://github.com/AbdullahAdeebx/JARVIS
+   cd JARVIS
+   npm install
+   npm link
+   jarvis
+   ```
 ## Requirements
 
 - Node.js 14.0 or higher
