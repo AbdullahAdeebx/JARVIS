@@ -5,6 +5,10 @@
 
 JARVIS is a command-line interface (CLI) application that lets you chat with Google's Gemini AI directly from your terminal. It uses Google's Gemini API via an OpenAI-compatible interface.
 
+Here's a demo video:
+
+[![Demo Video](https://img.youtube.com/vi/C6NMAOtA2Po/hqdefault.jpg)](https://youtu.be/C6NMAOtA2Po?si=p-ZVJ9zDJLZ1K0Eg)
+
 ## Features
 
 - **Interactive Chat Mode**: Have a back-and-forth conversation with the AI
