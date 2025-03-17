@@ -14,8 +14,11 @@ JARVIS is a command-line interface (CLI) application that lets you chat with Goo
 ## Installation
 
 ```bash
-# Install globally from npm
-npm install -g @abdullahadeeb/jarvis
+   git clone https://github.com/AbdullahAdeebx/JARVIS
+   cd JARVIS
+   npm install
+   npm link
+   jarvis
 ```
 
 ## Usage
