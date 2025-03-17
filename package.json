@@ -1,0 +1,44 @@
+{
+  "name": "@abdullahadeeb/jarvis",
+  "version": "1.0.1",
+  "description": "JARVIS - Your Terminal AI Companion",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "jarvis": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "openai": "^4.28.0"
+  },
+  "keywords": [
+    "cli",
+    "ai",
+    "google-api",
+    "chat",
+    "gemini",
+    "terminal",
+    "ai-assistant",
+    "command-line"
+  ],
+  "author": "Abdullah Adeeb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdullahAdeebx/jarvis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AbdullahAdeebx/jarvis/issues"
+  },
+  "homepage": "https://github.com/AbdullahAdeebx/jarvis#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+} 
